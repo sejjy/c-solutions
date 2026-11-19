@@ -1,7 +1,7 @@
 ## c2-projects
 
-Answers to programming projects from the second edition of C Programming: A
-Modern Approach
+Answers to programming projects from the second edition of
+[C Programming: A Modern Approach](https://www.google.com.ph/books/edition/C_Programming/pDIbvgAACAAJ)
 
 ### Structure
 
