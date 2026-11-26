@@ -4,21 +4,19 @@ Solutions to exercises and programming projects from the second edition of
 [C Programming: A Modern Approach](http://knking.com/books/c2/index.html) by K.
 N. King.
 
-<div align="center">
-  <table>
-    <tr>
-      <th>
-        <img src="./book-cover.jpg" height="256" alt="Book cover" />
-      </th>
-    </tr>
-  </table>
-  <sup>
-    Source:
-    <a href="http://knking.com/books/c2/cover.html">
-      http://knking.com/books/c2/cover.html
-    </a>
-  </sup>
-</div>
+<table>
+  <tr>
+    <th>
+      <img src="./book-cover.jpg" height="256" alt="Book cover" />
+    </th>
+  </tr>
+</table>
+<sup>
+  Source:
+  <a href="http://knking.com/books/c2/cover.html">
+    http://knking.com/books/c2/cover.html
+  </a>
+</sup>
 
 #
 
