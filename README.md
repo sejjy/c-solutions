@@ -1,45 +1,36 @@
-## c2-projects
+## c-solutions
 
-Answers to programming projects from the second edition of
-[C Programming: A Modern Approach](https://www.google.com.ph/books/edition/C_Programming/pDIbvgAACAAJ)
+Solutions to exercises and programming projects from the second edition of
+[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
 
-### Structure
+<div align="center">
+  <table>
+    <tr>
+      <th>
+        <img src="./book-cover.jpg" height="256" alt="Book cover" />
+      </th>
+    </tr>
+  </table>
+  <sup>
+    Source:
+    <a href="http://knking.com/books/c2/cover.html">
+      http://knking.com/books/c2/cover.html
+    </a>
+  </sup>
+</div>
 
-```text
-.
-├── 02
-│   ├── 01.c
-│   ├── 02.c
-│   ├── 03.c
-│   └── ...    (other project.c files or project directories)
-└── ...    (other chapters)
+#
+
+### Compile
+
+Single-file programs:
+
+```sh
+$ gcc -O -Wall -W -pedantic -ansi -std=c99 -o program program.c
 ```
 
-### Compile and run
-
-#### Single-file projects
-
-Compile using [`gcc`](https://gcc.gnu.org/) with the following options:
+Multi-file programs:
 
 ```bash
-$ gcc -O -Wall -W -pedantic -ansi -std=c99 -o project project.c
-$ ./project [args...]
-```
-
-or use [`./car`](./car)
-(<ins>c</ins>ompile
- <ins>a</ins>nd
- <ins>r</ins>un) anywhere inside the root directory:
-
-```bash
-$ ./car chapter project [args...]
-```
-
-#### Multi-file projects
-
-Compile using [`make`](https://www.gnu.org/software/make/):
-
-```bash
-$ make [target]
-$ ./project [args...]
+$ make
 ```
