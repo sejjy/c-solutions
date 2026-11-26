@@ -22,6 +22,24 @@ N. King.
 
 #
 
+### Structure
+
+```text
+.
+├── 02
+│   ├── exercises
+│   │   ├── 01
+│   │   ├── 02
+│   │   └── ...
+│   └── projects
+│       ├── 01
+│       ├── 02
+│       └── ...
+└── ... (other chapters)
+```
+
+#
+
 ### Compile
 
 Single-file programs:
