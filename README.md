@@ -1,7 +1,8 @@
 ## c-solutions
 
 Solutions to exercises and programming projects from the second edition of
-[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
+[C Programming: A Modern Approach](http://knking.com/books/c2/index.html) by K.
+N. King.
 
 <div align="center">
   <table>
