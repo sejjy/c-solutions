@@ -1,6 +1,3 @@
-// Modify the program of Programming Project 2 so that it prompts the user to
-// enter the radius of the sphere.
-
 #include <stdio.h>
 
 #define VOLUME_FACTOR (4.0f / 3.0f)
